@@ -1,3 +1,2 @@
 # newlearn
 newlearn
-while learni
